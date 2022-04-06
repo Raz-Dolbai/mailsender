@@ -11,6 +11,6 @@
       <strong>path</strong> - путь к файлу excel, в котором хранятся e-mail для рассылки<br>
       <strong>your_email</strong> - единственный email, который будет виден адресату<br>
   </li>
-  <li></li>
+  <li>Создать собственный HTML-шаблон</li>
 
 </ol>
