@@ -15,3 +15,4 @@
 </ol>
 <h4>Важно</h4>
 <strong>Все email получателей должны находиться на первой странице рабочей книги, название столбца ОБЯЗАТЕЛЬНО "e-mail"</strong>
+[![Screenshot-4.png](https://i.postimg.cc/3JGkSXjK/Screenshot-4.png)](https://postimg.cc/jLsqCJk9)
